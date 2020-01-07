@@ -2,7 +2,7 @@
 # General Site Settings
 title: PetsHub Blog
 logo: logo.png # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: Book Best Dog Daycare and Grooming Services
 
 
 #-------------------------------
@@ -11,8 +11,11 @@ author:
   name: PetsHub
   image: background.svg
   say-hello: Hello, We're <strong>PetsHub</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-
+  bio: PetsHub allows you to search for kennels for your pets in your area. You can book services for your pets like
+       <a class="nav-link active" href="https://www.petshub.in/kennels" target="_blank">Book kennels</a>, <a class="nav-link active" href="/dog-daycare" target="_blank">Daycare</a>
+              <a class="nav-link active" href="https://www.petshub.in/dog-boarding" target="_blank">Boarding</a>,
+              <a class="nav-link active" href="https://www.petshub.in/dog-grooming-services" target="_blank">Grooming</a>,
+              <a class="nav-link active" href="https://www.petshub.in/dog-training" target="_blank">Training</a> and many more at your favorite kennels
 
 #-------------------------------
 # Contact links
@@ -25,18 +28,18 @@ instagram: https://instagram.com/petshub_in/ # Add your Instagram handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: petshub_in # Add instagram username
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-144766768-1 # Add your identifier.
 
 
 #-------------------------------
