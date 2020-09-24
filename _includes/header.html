@@ -5,7 +5,7 @@
       <header class="header">
 
         <div class="logo">
-          <a class="logo__link" href="https://www.petshub.in/" target="_blank">
+          <a class="logo__link" href="/">
           {%if site.data.settings.logo %}
             <img class="logo__image" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
           {% else %}
@@ -24,10 +24,8 @@
             <div class="nav__title">Menu</div>
 
             <ul class="nav__list list-reset">
-              <li class="nav__item">
-                <a href="/" class="nav__link">Home</a>
-              </li>
-              <!--
+              <li class="nav__item"><a href="/" class="nav__link">Blog</a></li>
+              
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}
               {% if page.title %}
@@ -36,7 +34,7 @@
               </li>
               {% endif %}
                 {% endunless %}
-              {% endfor %} -->
+              {% endfor %} 
             </ul>
 
           </div>

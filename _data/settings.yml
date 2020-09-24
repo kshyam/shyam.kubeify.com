@@ -1,28 +1,26 @@
 #-------------------------------
 # General Site Settings
-title: PetsHub Blog
-logo: logo.png # You can add own logo.
-description: Book Best Dog Daycare and Grooming Services
+title: Shyam Mohan - Golang, Ruby, Docker & Kubernetes, Container Native DevOps Engineer
+logo: shyam-mohan.png # You can add own logo.
+description: I have 12 + Years of working experience with varous systems over cloud systems.
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: PetsHub
-  image: background.svg
-  say-hello: Hello, We're <strong>PetsHub</strong>
-  bio: PetsHub allows you to search for kennels for your pets in your area. You can book services for your pets like
-       <a class="nav-link active" href="https://www.petshub.in/kennels" target="_blank">Book kennels</a>, <a class="nav-link active" href="/dog-daycare" target="_blank">Daycare</a>
-              <a class="nav-link active" href="https://www.petshub.in/dog-boarding" target="_blank">Boarding</a>,
-              <a class="nav-link active" href="https://www.petshub.in/dog-grooming-services" target="_blank">Grooming</a>,
-              <a class="nav-link active" href="https://www.petshub.in/dog-training" target="_blank">Training</a> and many more at your favorite kennels
+  name: Shyam Mohan
+  image: kubernetes-developer.jpeg
+  say-hello: Hello, I'm <strong>Shyam Mohan</strong>
+  bio: 
+
+
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/petshub_in # Add your Twitter handle
-facebook: https://facebook.com/petshub_in # Add your Facebook handle
+twitter: https://twitter.com/_shyam # Add your Twitter handle
+linkedin: https://www.linkedin.com/in/shyam-mohan-k/ # Add your Facebook handle
 # dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/petshub_in/ # Add your Instagram handle
+# instagram: https://instagram.com/petshub_in/ # Add your Instagram handle
 # pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
@@ -33,15 +31,17 @@ instagram: https://instagram.com/petshub_in/ # Add your Instagram handle
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: petshub_in # Add instagram username
+# instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+# instagram-profile: petshub_in # Add instagram username
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-144766768-1 # Add your identifier.
+google-analytics: UA-178845538-1 # Add your identifier.
 
 
 #-------------------------------
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Schedule Meeting
+permalink: /schedule-meeting/
+image: schedule-meeting-golang.png
+---
+
+<div class="hero">
+<center style="min-height: 620px;">
+	<!-- Calendly inline widget begin -->
+	<div class="calendly-inline-widget" data-url="https://calendly.com/shyam-mohan/meet?background_color=ffffff" style="min-width:100%;height:500px;"></div>
+	<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+	<!-- Calendly inline widget end -->
+</center>
+</div>
