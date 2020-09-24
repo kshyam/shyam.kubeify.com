@@ -10,7 +10,7 @@
         <div class="hero__content">
           <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
           <p class="hero__subtitle">
-            I have {{ exp }} + years of experience devloping and delivering web and mobile apps with passion of cloud native DevOps engineeering practices. I love to build and manage large scale IT products using open source tools with scalable architecture. 
+            I have {{ exp }} + years of experience developing and delivering web and mobile apps with passion of cloud native DevOps engineering practices. I love to build and manage large scale IT products using open source tools with scalable architecture. 
           </p>
           <div class="hero__social">
             <span class="hero__social-title">Follow Me - </span>

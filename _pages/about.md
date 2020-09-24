@@ -14,7 +14,7 @@ image: kubernetes-developer.jpeg
           {%   assign today = site.time | date: '%y'      %}
           {%   assign start = '20-01-2008 04:00:00' | date: '%y'  %}
           {%   assign exp = today | minus: start     %}
-          <p class="hero__subtitle"> I have {{ exp }} + years of experience devloping and delivering web and mobile apps with passion of cloud native DevOps engineeering practices. I love to build and manage large scale IT products using open source tools with scalable architecture. 
+          <p class="hero__subtitle"> I have {{ exp }} + years of experience developing and delivering web and mobile apps with passion of cloud native DevOps engineering practices. I love to build and manage large scale IT products using open source tools with scalable architecture. 
           <br>
           <br>
            I'm using 
@@ -26,7 +26,7 @@ image: kubernetes-developer.jpeg
            go buffalo,
            Relational DB like mysql/postgres, 
            NoSql DB like mongodb,
-           Cloud and Orchitaration tools like
+           Cloud and Orchestration tools like
            Amazon cloud, Google Cloud, Azure Cloud, Digital Ocean and many more.
            Kubernetes, 
            Docker, 
